@@ -1,0 +1,25 @@
+CASCADE LEGAL SUPPORT — JOSH'S REVISIONS
+
+Upload these three files to the ROOT of the CascadeLegal repository:
+
+  index.html
+  fresh.css
+  fresh.js
+
+On GitHub:
+
+1. Open https://github.com/CascadeLegalSupport/CascadeLegal
+2. Choose Add file, then Upload files.
+3. Drag index.html, fresh.css, and fresh.js onto the upload area.
+4. GitHub should indicate that the existing files will be replaced.
+5. Commit directly to the main branch with the message:
+   Apply Josh's requested website revisions
+6. Wait about two minutes and refresh:
+   https://cascadelegalsupport.github.io/CascadeLegal/
+
+The revisions:
+
+- The top announcement bar now matches the original logo's forest green and cream.
+- "Joshua provides" now reads "Josh provides."
+- "Contact Joshua" now reads "Contact Josh."
+- "Joshua Cook" remains in the formal founder heading, as requested.
