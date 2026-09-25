@@ -14,12 +14,12 @@ body.t2 .hero-grid{grid-template-columns:1fr 1fr}body.t3 .hero-grid{grid-templat
 /* Updated Cascade identity and founder profile */
 .brand{gap:0}.brand img{width:270px;height:auto;object-fit:contain}.brand-copy{display:none}.mark-shell{width:min(360px,92%);aspect-ratio:1.1;display:grid;place-items:center;padding:30px;background:#fff;border-radius:50%;box-shadow:var(--logoShadow)}.brand-panel .mark-shell img{width:100%;height:auto;box-shadow:none}.profile{padding:96px 0;background:var(--profileBg,var(--bg));color:var(--ink)}.profile-grid{display:grid;grid-template-columns:minmax(280px,430px) 1fr;gap:clamp(54px,8vw,110px);align-items:center}.portrait-wrap{position:relative}.portrait-wrap:after{content:'';position:absolute;inset:18px -18px -18px 18px;border:2px solid var(--accent);z-index:0}.portrait-wrap img{position:relative;z-index:1;width:100%;aspect-ratio:1;object-fit:cover;display:block}.profile h2{font-size:clamp(2.8rem,5vw,4.8rem);letter-spacing:-.035em;margin:12px 0 6px}.profile .role{margin:0 0 25px;color:var(--accent);font-weight:700;font-size:.86rem;letter-spacing:.08em;text-transform:uppercase}.profile-copy>p:not(.role){max-width:650px;color:var(--muted);font-size:1.04rem}.text-link{display:inline-flex;margin-top:12px;color:var(--ink);font-weight:700;text-decoration:none;border-bottom:2px solid var(--accent);padding-bottom:3px}
 body.t1 .brand{width:152px;height:109px;overflow:hidden}
-body.t1 .brand img{width:172px;max-width:none;border-radius:0;transform:translate(-10px,-14px)}
+body.t1 .brand img{width:172px;max-width:none;border-radius:0;transform:translate(-10px,-10px)}
 body.t1 .site-header{border-bottom-color:#153727}
 .header-identity{display:flex;align-items:center;gap:28px;min-width:0}.header-tagline{padding-left:28px;border-left:1px solid rgba(246,239,216,.34);color:var(--headerText);white-space:nowrap}.header-tagline strong{display:block;font:600 1.03rem/1.25 var(--serif);letter-spacing:.01em}.header-tagline span{display:block;margin-top:5px;font-size:.69rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(246,239,216,.72)}
 @media(max-width:840px){.profile-grid{grid-template-columns:1fr;gap:52px}.portrait-wrap{max-width:430px}}
 @media(max-width:560px){.brand img{width:205px;height:auto}.navlinks .button{padding:0 14px;min-height:44px}.site-header nav{gap:12px}.mark-shell{padding:22px}}
-@media(max-width:560px){body.t1 .brand{width:128px;height:92px}body.t1 .brand img{width:145px;transform:translate(-9px,-12px)}}
+@media(max-width:560px){body.t1 .brand{width:128px;height:92px}body.t1 .brand img{width:145px;transform:translate(-9px,-9px)}}
 @media(max-width:1060px){.header-tagline{display:none}.navlinks{gap:20px}}
 
 /* Cascade landscape hero photography */
